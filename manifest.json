@@ -2,7 +2,7 @@
     "name": "CSE110-Lab8-Starter",
     "short_name": "Kevin Kuang",
     "description": "",
-    "start_url": "/CSE110-Lab8-Starter",
+    "start_url": "/?source=pwag",
     "display": "standalone",
     "background_color": "blue",
     "theme_color": "blue",
